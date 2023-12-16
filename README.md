@@ -54,5 +54,5 @@ Tags are a date in format mm.yy that lets us know when tiles were updated.
 
 
 
-
+Built image: https://hub.docker.com/repository/docker/marhev/open_street_maps/general
 Image based on: https://github.com/Overv/openstreetmap-tile-server
