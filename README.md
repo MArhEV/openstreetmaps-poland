@@ -5,6 +5,7 @@ Prerequisities:
 - Docker or Docker Desktop installed
 
 How to build image:
+
 Change maps in Dockerfile:
 ```
 RUN wget https://download.geofabrik.de/europe/poland-latest.osm.pbf -O /data/region.osm.pbf \
